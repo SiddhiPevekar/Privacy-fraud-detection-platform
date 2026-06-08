@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+env/
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Docker
+*.pid
+
+# ML
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# Data
+data/
+datasets/
