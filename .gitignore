@@ -33,5 +33,5 @@ build/
 *.onnx
 
 # Data
-data/
-datasets/
+# data/
+# datasets/
